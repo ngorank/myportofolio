@@ -664,7 +664,7 @@
                   <div class="col-md-6">
                     <div class="title-box-2">
                       <h5 class="title-left">
-                        Send Message Us
+                      Envoyez-Moi Un Message
                       </h5>
                     </div>
                     <div>
@@ -705,7 +705,7 @@
                   <div class="col-md-6">
                     <div class="title-box-2 pt-4 pt-md-0">
                       <h5 class="title-left">
-                        Get in Touch
+                      Prenez Contact
                       </h5>
                     </div>
                     <div class="more-info">
@@ -716,9 +716,10 @@
                         mollitia inventore?
                       </p>
                       <ul class="list-ico">
-                        <li><span class="bi bi-geo-alt"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                        <li><span class="bi bi-phone"></span> (617) 557-0089</li>
-                        <li><span class="bi bi-envelope"></span> contact@example.com</li>
+                        <li><span class="bi bi-geo-alt"></span> Abidjan</li>
+                        <li><span class="bi bi-phone"></span> (+225) 07 08 26 45 01</li>
+                        <li><span class="bi bi-envelope"></span> honore.kouadio1er@gmail.com</li>
+                        <li><span class="bi bi-envelope"></span> developeurkouadio@gmail.com</li>
                       </ul>
                     </div>
                     <div class="socials">
@@ -746,15 +747,9 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="copyright-box">
-            <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
+            <p class="copyright">&copy; Copyright <strong>KpeBriki</strong>. Tous Droits Réservés</p>
             <div class="credits">
-              <!--
-              All the links in the footer should remain intact.
-              You can delete the links only if you purchased the pro version.
-              Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
-            -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              Designed by <a href="https://bootstrapmade.com/">HonoréNgoran</a>
             </div>
           </div>
         </div>
