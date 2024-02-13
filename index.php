@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>DevFolio Bootstrap Portfolio Template - Index</title>
+  <title> Portfolio NHK</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -64,7 +64,6 @@
 
     </div>
   </header><!-- End Header -->
-
   <!-- ======= Hero Section ======= -->
   <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/hero-bg.jpg)">
     <div class="overlay-itro"></div>
@@ -79,9 +78,7 @@
       </div>
     </div>
   </div><!-- End Hero Section -->
-
   <main id="main">
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about-mf sect-pt4 route">
       <div class="container">
@@ -101,16 +98,22 @@
                         <p><span class="title-s">Nom: </span> <span>NGORAN Kouadio Honoré</span></p>
                         <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
                         <p><span class="title-s">Email: </span> <span>honore.kouadio@buridaci.com</span></p>
-                        <p><span class="title-s">Phone: </span> <span>(225) 07 08 26 45 26</span></p>
+                        <p><span class="title-s">Phone: </span> <span>(+225) 07 08 26 45 26</span></p>
                       </div>
                     </div>
                   </div>
                   <div class="skill-mf">
-                    <p class="title-s">Skill</p>
-                    <span>HTML</span> <span class="pull-right">85%</span>
+                    <p class="title-s"><h1>Compétences</h1></p>
+                    <span>HTML</span> <span class="pull-right">95%</span>
                     <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div class="progress-bar" role="progressbar" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
+
+                    <span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+
                     <span>CSS3</span> <span class="pull-right">75%</span>
                     <div class="progress">
                       <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
@@ -119,10 +122,17 @@
                     <div class="progress">
                       <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+                    
+                    <span>PYTHON</span> <span class="pull-right">40%</span>
                     <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
+
+                    <span>JAVA</span> <span class="pull-right">50%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -133,20 +143,18 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                      imperdiet et, porttitor
-                      at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-                      porttitor accumsan tincidunt.
+                    En tant que développeur, 
+                    je me distingue par mes compétences tant en front-end 
+                    qu'en back-end, ce qui fait de moi un développeur full-stack exceptionnel. 
+                    Ma maîtrise des langages de programmation est impressionnante, 
+                    avec une expertise avérée dans des langages tels que Python, 
+                    Java, PHP et Node.js. Mon approche polyvalente et ma capacité 
+                    à exceller dans des environnements technologiques variés font 
+                    de moi un professionnel recherché, 
+                    capable de créer des solutions robustes et innovantes.
                     </p>
                     <p class="lead">
-                      Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-                      porttitor volutpat. Vestibulum
-                      ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
-                    </p>
-                    <p class="lead">
-                      Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                      Nulla porttitor accumsan
-                      tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+                    Ma réputation de développeur d'élite est solidement établie grâce à ma capacité à naviguer avec aisance entre les aspects visuels du front-end et les aspects plus complexes du back-end. En combinant mes compétences techniques pointues avec une compréhension approfondie de langages variés tels que Python, Java, PHP et Node.js, je deviens non seulement un expert full-stack, mais également un architecte logiciel exceptionnel capable de concevoir des solutions informatiques de premier ordre.
                     </p>
                   </div>
                 </div>
@@ -210,7 +218,7 @@
                 <span class="ico-circle"><i class="bi bi-bar-chart"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Photography</h2>
+                <h2 class="s-title">Mobile</h2>
                 <p class="s-description text-center">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
                   provident vitae! Magni
@@ -219,55 +227,11 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-binoculars"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Responsive Design</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-brightness-high"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Graphic Design</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-calendar4-week"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Marketing Services</h2>
-                <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Services Section -->
 
+
+
+
+          
     <!-- ======= Counter Section ======= -->
     <div class="section-counter paralax-mf bg-image" style="background-image: url(assets/img/counters-bg.jpg)">
       <div class="overlay-mf"></div>
@@ -280,7 +244,7 @@
               </div>
               <div class="counter-num">
                 <p data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1" class="counter purecounter"></p>
-                <span class="counter-text">WORKS COMPLETED</span>
+                <span class="counter-text">TRAVAUX TERMINÉS</span>
               </div>
             </div>
           </div>
@@ -291,7 +255,7 @@
               </div>
               <div class="counter-num">
                 <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="counter purecounter"></p>
-                <span class="counter-text">YEARS OF EXPERIENCE</span>
+                <span class="counter-text">ANNÉES D'EXPÉRIENCE</span>
               </div>
             </div>
           </div>
