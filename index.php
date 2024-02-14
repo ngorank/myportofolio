@@ -674,7 +674,7 @@
                     </div>
                     <div class="more-info">
                       <p class="lead">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
+                        Lorem  dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
                         expedita aperiam aliquid at.
                         Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
                         mollitia inventore?
