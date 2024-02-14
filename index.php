@@ -674,13 +674,10 @@
                     </div>
                     <div class="more-info">
                       <p class="lead">
-                        Lorem  dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                        expedita aperiam aliquid at.
-                        Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                        mollitia inventore?
+                      Je ne suis pas disponible pour le moment. Laissez-moi un message et je vous répondrai dès que possible. Merci
                       </p>
                       <ul class="list-ico">
-                        <li><span class="bi bi-geo-alt"></span> Abidjan</li>
+                        <li><span class="bi bi-geo-alt"></span> Abidjan - Koumassi</li>
                         <li><span class="bi bi-phone"></span> (+225) 07 08 26 45 01</li>
                         <li><span class="bi bi-envelope"></span> honore.kouadio1er@gmail.com</li>
                         <li><span class="bi bi-envelope"></span> developeurkouadio@gmail.com</li>
